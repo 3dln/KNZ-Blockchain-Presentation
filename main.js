@@ -1,6 +1,7 @@
+
+import "reveal.js/dist/reset.css";
 import "reveal.js/dist/reveal.css";
-import "reveal.js/dist/theme/sky.css";
-// import "./style.css";
+import "./sky.css";
 import "./tailwind.css";
 
 import Reveal from "reveal.js";
